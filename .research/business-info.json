@@ -1,0 +1,20 @@
+{
+  "businessName": "Strongarm",
+  "category": "electrical",
+  "brandColors": {
+    "primary": "#9B59B6",
+    "secondary": "#AF7AC5",
+    "accent": "#3498DB",
+    "dark": "#7D3C98",
+    "light": "#F4ECF7"
+  },
+  "tagline": "Your Current Solution",
+  "services": [
+    "Emergency Repairs",
+    "Installations",
+    "Fault Finding",
+    "Maintenance",
+    "Rewiring",
+    "Safety Inspections"
+  ]
+}
